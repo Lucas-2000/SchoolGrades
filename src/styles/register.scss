@@ -1,0 +1,45 @@
+#page-register {
+    display: flex;
+    padding: 20px 240px;
+    margin-left: 150px;
+    flex-direction: column;
+
+    main {
+        border: solid 1px blueviolet;
+        padding: 32px;
+        background: lightyellow;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+            strong {
+                font: 700 28px 'Quicksand', sans-serif;
+            }
+
+            input {
+                margin-top: 20px;
+                width: 100%;
+                height: 60px;
+                border: solid 3px blueviolet;
+                border-radius: 8px;
+                padding: 0 15px;
+                font: 400 22px 'Quicksand', sans-serif;
+            }
+
+            button {
+                margin-top: 20px;
+                font: 400 22px 'Quicksand', sans-serif;
+                border: solid 1px;
+                cursor: pointer;
+                border-radius: 8px;
+                background: blueviolet;
+                color: #fff;
+                width: 50%;
+                height: 60px;
+
+                &:hover {
+                    background: purple;
+                }
+            }
+        }
+}

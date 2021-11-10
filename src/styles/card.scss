@@ -1,0 +1,33 @@
+#component-card {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin-top: 50px;
+    
+    main {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 50px;
+        border: solid 1px blueviolet;
+        background: lightyellow;
+
+        img {
+            border: solid 1px blueviolet;
+            width: 275px;
+        }
+        
+        strong {
+            padding: 8px;
+            border-bottom: solid 1px blueviolet;
+            width: 720px;
+            height: 40px;
+        }
+    
+    }
+
+    .details-card {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

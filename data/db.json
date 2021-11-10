@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Lucas Marchesoni",
+      "age": "17",
+      "classStudent": "3A",
+      "grade1": "10",
+      "grade2": "8",
+      "finalGrade": "9",
+      "status": "Aprovado"
+    },
+    {
+      "id": 2,
+      "name": "Lucas Silva",
+      "age": "15",
+      "classStudent": "1A",
+      "grade1": "2",
+      "grade2": "3",
+      "finalGrade": "2.5",
+      "status": "Reprovado"
+    },
+    {
+      "name": "Marcos Paulo",
+      "age": "13",
+      "classStudent": "8A",
+      "grade1": "10",
+      "grade2": "2",
+      "status": "Aprovado",
+      "finalGrade": 6,
+      "id": 3
+    },
+    {
+      "name": "Maria Joaquina",
+      "age": "15",
+      "classStudent": "1E",
+      "grade1": "4",
+      "grade2": "4",
+      "status": "Reprovado",
+      "finalGrade": 4,
+      "id": 4
+    },
+    {
+      "name": "José Pedro",
+      "age": "14",
+      "classStudent": "9D",
+      "grade1": "5",
+      "grade2": "5",
+      "status": "Reprovado",
+      "finalGrade": 5,
+      "id": 5
+    },
+    {
+      "name": "Adriana Silva",
+      "age": "17",
+      "classStudent": "3E",
+      "grade1": "10",
+      "grade2": "9",
+      "status": "Aprovado",
+      "finalGrade": 9.5,
+      "id": 6
+    },
+    {
+      "name": "Mauricio Alves",
+      "age": "19",
+      "classStudent": "3R",
+      "grade1": "1",
+      "grade2": "2",
+      "status": "Reprovado",
+      "finalGrade": 1.5,
+      "id": 7
+    },
+    {
+      "name": "Joel Américo",
+      "age": "11",
+      "classStudent": "6A",
+      "grade1": "9",
+      "grade2": "8",
+      "status": "Aprovado",
+      "finalGrade": 8.5,
+      "id": 8
+    },
+    {
+      "name": "Orlando Lins",
+      "age": "12",
+      "classStudent": "7H",
+      "grade1": "10",
+      "grade2": "8",
+      "status": "Aprovado",
+      "finalGrade": 9,
+      "id": 9
+    },
+    {
+      "name": "Samuel Cataria",
+      "age": "15",
+      "classStudent": "1A",
+      "grade1": "10",
+      "grade2": "4",
+      "status": "Aprovado",
+      "finalGrade": 7,
+      "id": 10
+    },
+    {
+      "name": "Luana Alves",
+      "age": "17",
+      "classStudent": "3M",
+      "grade1": "4",
+      "grade2": "9",
+      "status": "Aprovado",
+      "finalGrade": 6.5,
+      "id": 11
+    },
+    {
+      "name": "Alex Ryder",
+      "age": "8",
+      "classStudent": "2A",
+      "grade1": "2.5",
+      "grade2": "3.75",
+      "status": "Reprovado",
+      "finalGrade": 3.125,
+      "id": 12
+    }
+  ]
+}
